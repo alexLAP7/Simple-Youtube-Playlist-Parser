@@ -1,0 +1,57 @@
+
+1. Python GUI with Tkinter - 1 - Introduction
+https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=2&t=0s
+https://www.youtube.com/watch?v=RJB1Ek2Ko_Y
+=====
+2. Python GUI with Tkinter - 2 - Organizing your Layout
+https://www.youtube.com/watch?v=RTM9tiV_HoY&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=3&t=0s
+https://www.youtube.com/watch?v=RTM9tiV_HoY
+=====
+3. Python GUI with Tkinter - 3 - Fitting Widgets in your Layout
+https://www.youtube.com/watch?v=Ko4EPJ8DDjg&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=4&t=0s
+https://www.youtube.com/watch?v=Ko4EPJ8DDjg
+=====
+4. Python GUI with Tkinter - 4 - Grid Layout
+https://www.youtube.com/watch?v=-nmzq3xiZ6I&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=5&t=0s
+https://www.youtube.com/watch?v=-nmzq3xiZ6I
+=====
+5. Python GUI with Tkinter - 5 - More on the Grid Layout
+https://www.youtube.com/watch?v=wNBqM28MMjs&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=6&t=0s
+https://www.youtube.com/watch?v=wNBqM28MMjs
+=====
+6. Python GUI with Tkinter - 6 - Binding Functions to Layouts
+https://www.youtube.com/watch?v=qWnE-yp6wzU&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=7&t=0s
+https://www.youtube.com/watch?v=qWnE-yp6wzU
+=====
+7. Python GUI with Tkinter - 7 - Mouse Click Events
+https://www.youtube.com/watch?v=XkCbinbgbdw&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=8&t=0s
+https://www.youtube.com/watch?v=XkCbinbgbdw
+=====
+8. Python GUI with Tkinter - 8 - Using Classes
+https://www.youtube.com/watch?v=IYHJRnVOFlw&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=9&t=0s
+https://www.youtube.com/watch?v=IYHJRnVOFlw
+=====
+9. Python GUI with Tkinter - 9 - Creating Drop Down Menus
+https://www.youtube.com/watch?v=PSm-tq5M-Dc&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=10&t=0s
+https://www.youtube.com/watch?v=PSm-tq5M-Dc
+=====
+10. Python GUI with Tkinter - 10 - Creating a Toolbar
+https://www.youtube.com/watch?v=D24Vx3_IM8U&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=11&t=0s
+https://www.youtube.com/watch?v=D24Vx3_IM8U
+=====
+11. Python GUI with Tkinter - 11 - Adding the Status Bar
+https://www.youtube.com/watch?v=FqIKEW-S8W0&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=12&t=0s
+https://www.youtube.com/watch?v=FqIKEW-S8W0
+=====
+12. Python GUI with Tkinter - 12 - Messagebox
+https://www.youtube.com/watch?v=IB6VkXJVf0Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=13&t=0s
+https://www.youtube.com/watch?v=IB6VkXJVf0Y
+=====
+13. Python GUI with Tkinter - 13 - Shapes and Graphics
+https://www.youtube.com/watch?v=O12aT42okYE&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=14&t=0s
+https://www.youtube.com/watch?v=O12aT42okYE
+=====
+14. Python GUI with Tkinter - 14 - Images and Icons
+https://www.youtube.com/watch?v=lt78_05hHSk&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d&index=15&t=0s
+https://www.youtube.com/watch?v=lt78_05hHSk
+=====
