@@ -33,8 +33,8 @@ list_of_separated_videos = []
 
 for index, string in enumerate(list_of_hrefs):
     raw_list_of_string = the_fastest_split(string, list_of_separators)
-    list_of_each_event = list(filter(None, raw_list_of_string))
-    list_of_separated_videos.append(list_of_each_event[0])
+    list_of_parsed_href = list(filter(None, raw_list_of_string))
+    list_of_separated_videos.append(list_of_parsed_href[0])
 
 with open('name_of_your_saved_playlist.txt', 'a', encoding="utf-8") as f:
     for index, value in enumerate(list_of_separated_videos):
